@@ -19,5 +19,5 @@ def check_triangle(a, b, c):
     else:
         print('Такого треугольника не существует')
 
-check_triangle(5, 5, 5)
+check_triangle(5, 5, 4)
 
